@@ -1,12 +1,87 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), меня зовут Александр ======================================================================================================================================= Я не очень разбираюсь в программировании, но активно его изучаю. Я могу решать простейшие задачи на Python, а также создаю свою собственную игру в Unity на C# * 🌍 Я живу в Покачи * ✉️ Вы можете связаться со мной по [tenon29e@gmail.com](mailto:tenon29e@gmail.com) * 🧠 Я изучаю python C#
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-### Навыки
+### <div align="center">I don't know much about programming, but I'm actively studying it. I can solve the simplest problems in python, and I am also creating my own game in Unity in C#👍</div>  
+  
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg " width="36" height="36" alt="C #" /></a>"https://www.python.org /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg " width="36" height="36" alt="Python" /></a>adobe.com/uk/products/photoshop.html " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg " width="36" height="36" alt="Photoshop" /></a> <a href="adobe.com/uk/products/illustrator.html " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg " width="36" height="36" alt="Иллюстратор" /></a>adobe.com/uk/products/aftereffects.html " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg " width="36" height="36" alt="After Effects" /></a> <a href="https://www.adobe.com/uk/products/premiere.html " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg " width="36" height="36" alt="Premiere Pro" /></a>adobe.com/uk/products/xd.html " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg " width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg " width="36" height="36" alt="Figma" /></a> </p>
-### Социальные сети <p align="left"> <a href="https://www.github.com/TenON312 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " ширина ="32" высота="32" /></a></p>
+- 🔭 I’m currently doing on Learning python  
+  
 
-### Значки
+- 😺I am creating games on unity, I have my own YouTube channel and I want to go to university  
+  
 
-<b> Моя статистика на GitHub</b>
+- 😢I don't always find answers to my questions  
+  
 
-<a href="http://www.github.com/TenON312 "><img src="https://github-readme-stats.vercel.app/api?username=TenON312&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true " alt="Статистика TenON312 на GitHub" /></a>
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/TenON312" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/oreareq" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TenON312&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=TenON312&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
